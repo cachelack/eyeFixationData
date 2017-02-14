@@ -37,7 +37,7 @@ if they are absent, then many of the display functions in the
 R code will fail to run correctly.
 
 Data is available on GitHub at 
-https://github.com/cachelack/eyeFixationData.git
+https://github.com/cachelack/eyeFixationData
 
 Code Examples:
 
